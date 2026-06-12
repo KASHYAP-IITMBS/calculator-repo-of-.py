@@ -1,5 +1,5 @@
 # calculator repo of .py
-this is my first repo on git
+## ✨This is my first repo on git✨
 # 🧮 Python Calculator
 
 <br>
